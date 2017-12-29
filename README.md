@@ -20,7 +20,7 @@ Algorithm
 
 
 Result Example 1
-[Result1](./Figure_1.png)
+![Result1](./Figure_1.png)
 
 Result Example 2
-[Result2](./Figure_2.png)
+![Result2](./Figure_2.png)
